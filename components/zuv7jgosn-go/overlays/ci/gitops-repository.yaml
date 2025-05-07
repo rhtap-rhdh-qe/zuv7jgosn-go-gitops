@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zuv7jgosn-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zuv7jgosn-go-gitops
